@@ -6,7 +6,7 @@ class IOSString():
      self.str1=""
 
     # function to get input from user
-   def get__Strin(self):
+   def get_String(self):
         self.str1 = input("Enter string")
         print("result is :",self.str1.upper())
 
